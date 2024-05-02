@@ -6,5 +6,4 @@ public class Text {
        //new editor();
         new build();
     }
-    
 }
